@@ -9,9 +9,29 @@
     color: black;
     background-color: azure;
 }
-.direction.hover {
+.direction:hover {
     background-color: cadetblue;
     color:white;
+}
+.OSWALD:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(125, 67, 230);
+}
+.MRSALVING:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(125, 67, 230);
+}
+.REGINA:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(125, 67, 230);
+}
+.MANDERS:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(125, 67, 230);
+}
+.ENGSTRAND:hover{
+    border: solid 2px rgb(175, 37, 240);
+    text-shadow: 3px 3px 3px rgb(125, 67, 230);
 }
 .OSWALD{
     font-size: 20;
