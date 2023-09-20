@@ -27,3 +27,12 @@
     color: crimson;
     
 }
+table ,th,td{
+    border: 1px solid;
+    color: brown;
+    text-align: left;
+    padding:0px;
+    margin: 0px;
+
+}
+
