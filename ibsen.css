@@ -17,14 +17,22 @@
     font-size: 20;
     color: aquamarine;
 }
-.MRS.ALVING{
+.MRSALVING{
     font-size: 25;
-    color: bisque;
-    
+    color:chartreuse;  
 }
 .REGINA{
     font-size: 30;
     color: crimson;
+    
+}
+.MANDERS{
+    font-size: 30;
+    color:blue; 
+}
+.ENGSTRAND{
+    font-size: 30;
+    color:darkorchid;
     
 }
 table ,th,td{
