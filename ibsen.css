@@ -66,3 +66,22 @@ table ,th,td{
 td{
     background-color: aqua;
 }
+ul.navbar-horizontal{
+    list-style-type: none;
+    margin: 1px;
+    padding: 2px;
+}
+ul.navbar-horizontal{
+    float: left;
+    color: rgb(17, 16, 97);
+    background-color:deeppink;
+
+}
+ul.navbar-horizontal a{
+    display: block;
+    padding: 3px;
+}
+ul.navbar-horizontal a:hover{
+    backgroun-color: rgb(117, 23, 225);
+    color: rgb(222, 172, 219);
+}
