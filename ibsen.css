@@ -9,6 +9,9 @@
     color: black;
     background-color: azure;
 }
+.name{
+    color:yellow;
+}
 .direction:hover {
     background-color: cadetblue;
     color:white;
@@ -82,6 +85,6 @@ ul.navbar-horizontal a{
     padding: 3px;
 }
 ul.navbar-horizontal a:hover{
-    backgroun-color: rgb(117, 23, 225);
+    background-color: rgb(117, 23, 225);
     color: rgb(222, 172, 219);
 }
